@@ -1,0 +1,137 @@
+@media (min-width:1400px){
+    .what-we-do .container{
+        max-width: 1320px;
+    }
+}
+
+@media (min-width:1200px) and (max-width:1399px){
+    .what-we-do .container{
+        max-width:1140px;
+    }
+    .what-we-do .col-4{
+        width: 33.3333%;
+    }
+}
+@media (min-width:992px) and (max-width:1199px){
+    .what-we-do .container{
+        max-width:940px;
+    }
+    .what-we-do .col-4{
+        width: 33.333%;
+    }
+}
+@media (min-width:768px) and (max-width:991px){
+    .what-we-do .container{
+        max-width:720px;
+    }
+    .what-we-do .col-4{
+        width: 50%;
+    }
+}
+@media (min-width:576px) and (max-width:767px){
+    .what-we-do .container{
+        max-width:540px;
+    }
+    .what-we-do .container .row .col-4{
+        width: 50%;
+    }
+    .what-we-do .read-more {
+        visibility: visible;
+        opacity: 1;
+        color: blue;
+    }
+
+}
+@media (max-width:575px){
+    .what-we-do .container{
+        max-width:100%;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .what-we-do .col-4{
+        width: 100%;
+    }
+    .what-we-do .box-data .wpa{
+        transform: translateY(-15px);
+        margin-top: 11px;
+    }
+    .what-we-do .read-more {
+        visibility: visible;
+        opacity: 1;
+        color: blue;
+        bottom: 17px;
+        font-size: 15px;
+    }
+}
+/* -----WHY-CHOOSE-US---------- */
+
+@media (min-width:1400px){
+    .WHY-CHOOSE-US .container{
+        max-width: 1320px;
+    }
+}
+
+@media (min-width:1200px) and (max-width:1399px){
+    .WHY-CHOOSE-US .container{
+        max-width:1140px;
+    }
+   
+}
+@media (min-width:992px) and (max-width:1199px){
+    .WHY-CHOOSE-US .container{
+        max-width:940px;
+    }
+   
+}
+@media (min-width:768px) and (max-width:991px){
+    .WHY-CHOOSE-US .container{
+        max-width:720px;
+    }
+    .WHY-CHOOSE-US .container .col-6{
+        width: 100%;
+    }
+  
+}
+@media (min-width:576px) and (max-width:767px){
+    .WHY-CHOOSE-US .container{
+        max-width:540px;
+    }
+    .WHY-CHOOSE-US .container .col-6{
+        width: 100%;
+    }
+  
+}
+@media (max-width:575px){
+    .WHY-CHOOSE-US .container{
+        max-width:100%;
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .WHY-CHOOSE-US .sub{
+        margin-bottom: 7px;
+        font-size: 13px;
+    }
+    .WHY-CHOOSE-US{
+        
+    }
+    .WHY-CHOOSE-US{
+       
+    }
+    .WHY-CHOOSE-US .container .col-6{
+        width: 100%;
+    }
+}
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
